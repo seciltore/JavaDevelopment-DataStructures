@@ -9,4 +9,5 @@ public class GetKthNodeFromTheLast {
         myLinkedList.printLinkedList();
         System.out.println(myLinkedList.size);
     }
+
 }
